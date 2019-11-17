@@ -1,0 +1,15 @@
+{
+  "name": "Server Development",
+  "PORT": 3000,
+  "DB": "mongodb+srv://superpanda:task123@cluster0-mrqcp.mongodb.net/Conqoll?retryWrites=true&w=majority",
+  "sessionOpts": {
+    "saveUninitialized": false,
+    "resave": false,
+    "secret": "topsecret",
+    "unset": "destroy",
+    "cookie": {
+      "httpOnly": true,
+      "maxAge": 2419200000
+    }
+  }
+}

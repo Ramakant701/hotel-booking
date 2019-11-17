@@ -1,0 +1,215 @@
+{
+  "message": "TableMsts fetched successfully",
+  "tableMsts": [
+    {
+      "child": [],
+      "isChild": "No",
+      "deleteFlag": "No",
+      "_id": "5d84b498f6bf1c8581df05b0",
+      "displayName": "Home",
+      "createdAt": "2019-09-20T11:14:32.023Z",
+      "updatedAt": "2019-09-20T11:14:32.023Z",
+      "__v": 0
+    },
+    {
+      "child": [
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84bbbbd5a50512d24121d3",
+          "displayName": "Task Statuses",
+          "routeName": "task-status-mst",
+          "createdAt": "2019-09-20T11:44:59.913Z",
+          "updatedAt": "2019-09-20T11:44:59.913Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84bc98d5a50512d24121d4",
+          "displayName": "Task Workflow",
+          "routeName": "task-status-wf",
+          "createdAt": "2019-09-20T11:48:40.319Z",
+          "updatedAt": "2019-09-20T11:48:40.319Z",
+          "__v": 0
+        }
+      ],
+      "isChild": "No",
+      "deleteFlag": "No",
+      "_id": "5d84b4b0f6bf1c8581df05b1",
+      "displayName": "Tasks",
+      "createdAt": "2019-09-20T12:49:04.775Z",
+      "updatedAt": "2019-09-20T12:49:04.775Z",
+      "__v": 2,
+      "routeName": ""
+    },
+    {
+      "child": [
+        {
+          "child": [],
+          "isChild": "Yes",
+          "deleteFlag": "No",
+          "_id": "5d84c5d2d7c9d61af878e5c2",
+          "displayName": "Climate",
+          "routeName": "ClimateMst",
+          "createdAt": "2019-09-20T12:28:02.988Z",
+          "updatedAt": "2019-09-20T12:28:02.988Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "Yes",
+          "deleteFlag": "No",
+          "_id": "5d84c5e6d7c9d61af878e5c3",
+          "displayName": "Departments",
+          "routeName": "department-mst",
+          "createdAt": "2019-09-20T12:28:22.207Z",
+          "updatedAt": "2019-09-20T12:28:22.207Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c699d7c9d61af878e5c4",
+          "displayName": "Districts",
+          "routeName": "DistrictMst",
+          "createdAt": "2019-09-20T12:31:21.120Z",
+          "updatedAt": "2019-09-20T12:31:21.120Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c6b4d7c9d61af878e5c5",
+          "displayName": "Filters",
+          "routeName": "filter-mapping-mst",
+          "createdAt": "2019-09-20T12:31:48.506Z",
+          "updatedAt": "2019-09-20T12:31:48.506Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c6ccd7c9d61af878e5c6",
+          "displayName": "Pricing Zones",
+          "routeName": "PricingZoneMst",
+          "createdAt": "2019-09-20T12:32:12.739Z",
+          "updatedAt": "2019-09-20T12:32:12.739Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c6dbd7c9d61af878e5c7",
+          "displayName": "Regions",
+          "routeName": "RegionMst",
+          "createdAt": "2019-09-20T12:32:27.597Z",
+          "updatedAt": "2019-09-20T12:32:27.597Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c6e6d7c9d61af878e5c8",
+          "displayName": "Seasons",
+          "routeName": "SeasonMst",
+          "createdAt": "2019-09-20T12:32:38.920Z",
+          "updatedAt": "2019-09-20T12:32:38.920Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c6fad7c9d61af878e5c9",
+          "displayName": "Square Foot Group",
+          "routeName": "SqFtGroupMst",
+          "createdAt": "2019-09-20T12:32:58.447Z",
+          "updatedAt": "2019-09-20T12:32:58.447Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c706d7c9d61af878e5ca",
+          "displayName": "States",
+          "routeName": "StateMst",
+          "createdAt": "2019-09-20T12:33:10.529Z",
+          "updatedAt": "2019-09-20T12:33:10.529Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c728d7c9d61af878e5cb",
+          "displayName": "Store Layouts",
+          "routeName": "StoreLayoutMst",
+          "createdAt": "2019-09-20T12:33:44.101Z",
+          "updatedAt": "2019-09-20T12:33:44.101Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c733d7c9d61af878e5cc",
+          "displayName": "Stores",
+          "routeName": "StoreMst",
+          "createdAt": "2019-09-20T12:33:55.213Z",
+          "updatedAt": "2019-09-20T12:33:55.213Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c789d7c9d61af878e5cd",
+          "displayName": "Volume Group",
+          "routeName": "VolumeGroupMst",
+          "createdAt": "2019-09-20T12:35:21.354Z",
+          "updatedAt": "2019-09-20T12:35:21.354Z",
+          "__v": 0
+        },
+        {
+          "child": [],
+          "isChild": "true",
+          "deleteFlag": "No",
+          "_id": "5d84c792d7c9d61af878e5ce",
+          "displayName": "Zones",
+          "routeName": "ZoneMst",
+          "createdAt": "2019-09-20T12:35:30.675Z",
+          "updatedAt": "2019-09-20T12:35:30.675Z",
+          "__v": 0
+        }
+      ],
+      "isChild": "No",
+      "deleteFlag": "No",
+      "_id": "5d84b4ddf6bf1c8581df05b2",
+      "displayName": "Content",
+      "createdAt": "2019-09-20T12:58:12.439Z",
+      "updatedAt": "2019-09-20T12:58:12.439Z",
+      "__v": 4,
+      "routeName": ""
+    },
+    {
+      "child": [],
+      "isChild": "No",
+      "deleteFlag": "No",
+      "_id": "5d84c8b2d7c9d61af878e5d0",
+      "displayName": "Users",
+      "routeName": "user",
+      "createdAt": "2019-09-20T12:40:18.013Z",
+      "updatedAt": "2019-09-20T12:40:18.013Z",
+      "__v": 0
+    }
+  ]
+}

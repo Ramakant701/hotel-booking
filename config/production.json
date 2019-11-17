@@ -1,0 +1,16 @@
+{
+  "name": "Server Development",
+  "PORT": 3000,
+  "DB": "mongodb+srv://vsm-superadmin:vsm123@vsm-6jj8t.mongodb.net/production?retryWrites=true&w=majority",
+  "JOB_TYPES": "taskStatus",
+  "sessionOpts": {
+    "saveUninitialized": false,
+    "resave": false,
+    "secret": "topsecret",
+    "unset": "destroy",
+    "cookie": {
+      "httpOnly": true,
+      "maxAge": 2419200000
+    }
+  }
+}
